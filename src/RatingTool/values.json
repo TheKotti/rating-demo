@@ -1,0 +1,74 @@
+{
+  "crimes": [
+    {
+      "title": "Caught trespassing",
+      "points": 2
+    },
+    {
+      "title": "Dead body found",
+      "points": 6
+    },
+    {
+      "title": "Gunshot heard",
+      "points": 3
+    },
+    {
+      "title": "Civilian killed",
+      "points": 8
+    },
+    {
+      "title": "Guard killed",
+      "points": 6
+    },
+    {
+      "title": "Pacification",
+      "points": 1
+    },
+    {
+      "title": "Alarm triggered",
+      "points": 5
+    },
+    {
+      "title": "Caught commiting a crime",
+      "points": 7
+    },
+    {
+      "title": "Bullet impact noticed",
+      "points": 3
+    },
+    {
+      "title": "Caught on camera",
+      "points": 6
+    },
+    {
+      "title": "Recordings removed",
+      "points": -6
+    },
+    {
+      "title": "Unconscious body found",
+      "points": 4
+    },
+    {
+      "title": "Guards alerted",
+      "points": 5
+    },
+    {
+      "title": "Witness eliminated (accident)",
+      "points": -2
+    },
+    {
+      "title": "Witness eliminated (murder)",
+      "points": -1
+    }
+  ],
+  "ratings": [
+    { "title": "Silent Assassin", "min": 0 },
+    { "title": "Professional", "min": 10 },
+    { "title": "Expert", "min": 20 },
+    { "title": "Contract Killer", "min": 30 },
+    { "title": "Thug", "min": 40 },
+    { "title": "Loose Cannon", "min": 50 },
+    { "title": "Madman", "min": 60 },
+    { "title": "Mass Murderer", "min": 100 }
+  ]
+}
